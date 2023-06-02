@@ -1,0 +1,15 @@
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\bin\Debug\ImageViewer.xml
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.vbproj.AssemblyReference.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.vbproj.SuggestedBindingRedirects.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Resources.resources
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.vbproj.GenerateResource.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CoreCompileInputs.cache
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.xml
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\bin\Debug\gma.Drawing.ImageInfo.dll
+D:\Kuliah\New Beginning\1\ProgDesktop\4\ImageViewer\ImageViewer\obj\Debug\ImageViewer.vbproj.CopyComplete
